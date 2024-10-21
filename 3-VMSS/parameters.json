@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmssName": {
-      "value": "noelVMSS"
+      "value": "VMSS-hw3"
     },
     "adminUsername": {
-      "value": "noel"
+      "value": "azureuser"
     },
     "adminPassword": {
-      "value": "Password!abcd1234"
+      "value": "Password!azureuser"
     }
   }
 }
